@@ -17,3 +17,10 @@ No html
 </div> -->
 
 background-color: #47208b; /* Colocar cor de fundo */
+
+Imagem clicável (não é comum fazer dessa forma)
+<a href="">
+     <img>                   
+</a>
+
+.75s = 0.75s 
