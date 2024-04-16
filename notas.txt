@@ -24,3 +24,16 @@ Imagem clicável (não é comum fazer dessa forma)
 </a>
 
 .75s = 0.75s 
+
+Exemplos de media query
+@media screen and (max-width: 1300px) {
+    .menu a {
+        color: #ad4929;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .menu a {
+        color: #351868;
+    }
+}
