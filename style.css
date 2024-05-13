@@ -385,6 +385,14 @@ footer .container-grid {
     color: var(--laranja-gamifica);
 }
 
+.menu-fechado {
+    display: none;
+}
+
+#icone-barras {
+    display: none;
+}
+
 @media screen and (max-width: 1300px) {
     header {
         position: relative;
@@ -517,7 +525,7 @@ footer .container-grid {
 
     nav.menu {
         width: 100%;
-        display: none;
+        /* display: none; */
     }
 
     #sobre {
